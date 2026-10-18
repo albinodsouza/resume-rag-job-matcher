@@ -10,7 +10,7 @@ from sentence_transformers import SentenceTransformer
 from resume_rag import get_resume_collection, MODEL_NAME
 
 
-PROJECT_DIR = Path("/content/resume-rag-project")
+PROJECT_DIR = Path(__file__).resolve().parent
 JD_DIR = PROJECT_DIR / "job_descriptions"
 
 

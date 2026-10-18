@@ -6,7 +6,7 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 
 
-PROJECT_DIR = Path("/content/resume-rag-project")
+PROJECT_DIR = Path(__file__).resolve().parent
 RESUME_DIR = PROJECT_DIR / "resumes"
 VECTOR_DB_DIR = PROJECT_DIR / "vector_db"
 
