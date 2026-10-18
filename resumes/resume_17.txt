@@ -1,0 +1,15 @@
+Name: Karan
+Target Role: Java Developer
+Experience: 3 years
+Education: B.E. in Computer Science
+Skills: Java, Spring Boot, REST APIs, SQL, Testing
+
+Professional Summary:
+Karan is a software professional with 3 years of experience
+in Enterprise applications. Experienced with Java, Spring Boot, REST APIs.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Java, Spring Boot, REST APIs, SQL, Testing.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

@@ -1,0 +1,225 @@
+{
+  "job_description": {
+    "job_id": "JD003",
+    "title": "Machine Learning Engineer",
+    "description": "Build machine learning solutions using Python, scikit-learn and TensorFlow. Work with datasets, SQL and model evaluation.",
+    "must_have": [
+      "Python"
+    ],
+    "minimum_experience": 2
+  },
+  "total_candidates_indexed": 35,
+  "eligible_candidates": 14,
+  "top_matches": [
+    {
+      "candidate_name": "Krish",
+      "resume_path": "/content/resume-rag-project/resumes/resume_35.txt",
+      "match_score": 80.11,
+      "matched_skills": [
+        "Python",
+        "scikit-learn",
+        "TensorFlow",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, scikit-learn, TensorFlow, SQL, Testing",
+        "Professional Summary:\nKrish is a software professional with 9 years of experience\nin Machine learning. Experienced with Python, scikit-learn, TensorFlow.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, scikit-learn, TensorFlow, SQL, Testing.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 71.1/100; keyword score: 100.0/100.",
+      "experience_years": 9,
+      "education": "M.Tech in Computer Science",
+      "semantic_score": 71.11,
+      "keyword_score": 100.0,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Kabir",
+      "resume_path": "/content/resume-rag-project/resumes/resume_05.txt",
+      "match_score": 76.2,
+      "matched_skills": [
+        "Python",
+        "scikit-learn",
+        "TensorFlow",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, scikit-learn, TensorFlow, SQL, Linux, Testing",
+        "Professional Summary:\nKabir is a software professional with 9 years of experience\nin Machine learning. Experienced with Python, scikit-learn, TensorFlow.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, scikit-learn, TensorFlow, SQL, Linux, Testing.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 70.0/100; keyword score: 95.7/100.",
+      "experience_years": 9,
+      "education": "B.E. in Electronics and Communication",
+      "semantic_score": 70.01,
+      "keyword_score": 95.66,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Sahil",
+      "resume_path": "/content/resume-rag-project/resumes/resume_25.txt",
+      "match_score": 72.46,
+      "matched_skills": [
+        "Python",
+        "scikit-learn",
+        "TensorFlow",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, scikit-learn, TensorFlow, SQL, Agile, Linux, MongoDB",
+        "Professional Summary:\nSahil is a software professional with 9 years of experience\nin Machine learning. Experienced with Python, scikit-learn, TensorFlow.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, scikit-learn, TensorFlow, SQL, Agile, Linux, MongoDB.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 65.1/100; keyword score: 95.7/100.",
+      "experience_years": 9,
+      "education": "B.Tech in Information Technology",
+      "semantic_score": 65.1,
+      "keyword_score": 95.66,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Vikram",
+      "resume_path": "/content/resume-rag-project/resumes/resume_15.txt",
+      "match_score": 72.16,
+      "matched_skills": [
+        "Python",
+        "scikit-learn",
+        "TensorFlow",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, scikit-learn, TensorFlow, SQL, REST APIs, Git",
+        "Professional Summary:\nVikram is a software professional with 9 years of experience\nin Machine learning. Experienced with Python, scikit-learn, TensorFlow.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, scikit-learn, TensorFlow, SQL, REST APIs, Git.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 64.4/100; keyword score: 95.7/100.",
+      "experience_years": 9,
+      "education": "B.E. in Electronics and Communication",
+      "semantic_score": 64.37,
+      "keyword_score": 95.66,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Sana",
+      "resume_path": "/content/resume-rag-project/resumes/resume_34.txt",
+      "match_score": 57.43,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, SQL, Spark, AWS",
+        "Professional Summary:\nSana is a software professional with 2 years of experience\nin Data pipelines. Experienced with Python, SQL, Spark.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, SQL, Spark, AWS.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 54.3/100; keyword score: 52.9/100.",
+      "experience_years": 2,
+      "education": "B.Tech in Information Technology",
+      "semantic_score": 54.27,
+      "keyword_score": 52.89,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Ira",
+      "resume_path": "/content/resume-rag-project/resumes/resume_24.txt",
+      "match_score": 53.83,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, SQL, Spark, AWS, Testing",
+        "Professional Summary:\nIra is a software professional with 2 years of experience\nin Data pipelines. Experienced with Python, SQL, Spark.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, SQL, Spark, AWS, Testing.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 52.2/100; keyword score: 51.7/100.",
+      "experience_years": 2,
+      "education": "B.E. in Computer Science",
+      "semantic_score": 52.24,
+      "keyword_score": 51.73,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Neha",
+      "resume_path": "/content/resume-rag-project/resumes/resume_20.txt",
+      "match_score": 53.66,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, Selenium, SQL, Git, MongoDB",
+        "Professional Summary:\nNeha is a software professional with 4 years of experience\nin Test automation. Experienced with Python, Selenium, SQL.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, Selenium, SQL, Git, MongoDB.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 51.8/100; keyword score: 51.7/100.",
+      "experience_years": 4,
+      "education": "MCA",
+      "semantic_score": 51.82,
+      "keyword_score": 51.73,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Nisha",
+      "resume_path": "/content/resume-rag-project/resumes/resume_14.txt",
+      "match_score": 50.27,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, SQL, Spark, AWS, Git, MongoDB, Testing",
+        "Professional Summary:\nNisha is a software professional with 2 years of experience\nin Data pipelines. Experienced with Python, SQL, Spark.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, SQL, Spark, AWS, Git, MongoDB, Testing.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 51.8/100; keyword score: 49.6/100.",
+      "experience_years": 2,
+      "education": "B.E. in Computer Science",
+      "semantic_score": 51.85,
+      "keyword_score": 49.57,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Meera",
+      "resume_path": "/content/resume-rag-project/resumes/resume_04.txt",
+      "match_score": 50.21,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, SQL, Spark, AWS, Agile, Testing",
+        "Professional Summary:\nMeera is a software professional with 2 years of experience\nin Data pipelines. Experienced with Python, SQL, Spark.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, SQL, Spark, AWS, Agile, Testing.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 48.1/100; keyword score: 50.6/100.",
+      "experience_years": 2,
+      "education": "B.E. in Computer Science",
+      "semantic_score": 48.05,
+      "keyword_score": 50.63,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Sneha",
+      "resume_path": "/content/resume-rag-project/resumes/resume_10.txt",
+      "match_score": 50.14,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, Selenium, SQL, Git, REST APIs",
+        "Professional Summary:\nSneha is a software professional with 4 years of experience\nin Test automation. Experienced with Python, Selenium, SQL.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Python, Selenium, SQL, Git, REST APIs.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 2 years and has all required skills. Semantic score: 47.9/100; keyword score: 50.6/100.",
+      "experience_years": 4,
+      "education": "MCA",
+      "semantic_score": 47.88,
+      "keyword_score": 50.63,
+      "eligible": true
+    }
+  ],
+  "latency_ms": 1024.7,
+  "scoring_note": "Scores are heuristic ranking estimates, not probabilities of job success or objective hiring suitability."
+}

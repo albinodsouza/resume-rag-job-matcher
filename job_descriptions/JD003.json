@@ -1,0 +1,9 @@
+{
+  "job_id": "JD003",
+  "title": "Machine Learning Engineer",
+  "description": "Build machine learning solutions using Python, scikit-learn and TensorFlow. Work with datasets, SQL and model evaluation.",
+  "must_have": [
+    "Python"
+  ],
+  "minimum_experience": 2
+}

@@ -1,0 +1,15 @@
+Name: Sara
+Target Role: QA Engineer
+Experience: 4 years
+Education: B.Tech in Information Technology
+Skills: Python, Selenium, SQL, Git, REST APIs, Agile
+
+Professional Summary:
+Sara is a software professional with 4 years of experience
+in Test automation. Experienced with Python, Selenium, SQL.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Python, Selenium, SQL, Git, REST APIs, Agile.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

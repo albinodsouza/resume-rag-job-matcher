@@ -1,0 +1,9 @@
+{
+  "job_id": "JD001",
+  "title": "Python Backend Engineer",
+  "description": "Build backend services and REST APIs using Python, FastAPI or Django, SQL and PostgreSQL. Write tests and maintain production code.",
+  "must_have": [
+    "Python"
+  ],
+  "minimum_experience": 3
+}

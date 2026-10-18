@@ -1,0 +1,173 @@
+{
+  "job_description": {
+    "job_id": "JD002",
+    "title": "Java Full Stack Developer",
+    "description": "Develop enterprise applications using Java, Spring Boot, Angular, REST APIs and SQL. Collaborate with frontend and backend teams.",
+    "must_have": [
+      "Java",
+      "Spring Boot"
+    ],
+    "minimum_experience": 3
+  },
+  "total_candidates_indexed": 35,
+  "eligible_candidates": 7,
+  "top_matches": [
+    {
+      "candidate_name": "Rahul",
+      "resume_path": "/content/resume-rag-project/resumes/resume_13.txt",
+      "match_score": 82.35,
+      "matched_skills": [
+        "Java",
+        "Angular",
+        "Spring Boot",
+        "SQL",
+        "REST APIs"
+      ],
+      "relevant_excerpts": [
+        "Skills: Java, Angular, Spring Boot, SQL, REST APIs, Git",
+        "Professional Summary:\nRahul is a software professional with 5 years of experience\nin Full-stack applications. Experienced with Java, Angular, Spring Boot.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Java, Angular, Spring Boot, SQL, REST APIs, Git.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 3 years and has all required skills. Semantic score: 71.5/100; keyword score: 100.0/100.",
+      "experience_years": 5,
+      "education": "M.Tech in Computer Science",
+      "semantic_score": 71.49,
+      "keyword_score": 100.0,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Ishaan",
+      "resume_path": "/content/resume-rag-project/resumes/resume_03.txt",
+      "match_score": 77.54,
+      "matched_skills": [
+        "Java",
+        "Angular",
+        "Spring Boot",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Java, Angular, Spring Boot, SQL",
+        "Professional Summary:\nIshaan is a software professional with 5 years of experience\nin Full-stack applications. Experienced with Java, Angular, Spring Boot.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Java, Angular, Spring Boot, SQL.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 3 years and has all required skills. Semantic score: 69.3/100; keyword score: 79.3/100.",
+      "experience_years": 5,
+      "education": "B.Tech in Information Technology",
+      "semantic_score": 69.29,
+      "keyword_score": 79.29,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Karan",
+      "resume_path": "/content/resume-rag-project/resumes/resume_17.txt",
+      "match_score": 74.44,
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Target Role: Java Developer",
+        "Skills: Java, Spring Boot, REST APIs, SQL, Testing",
+        "Professional Summary:\nKaran is a software professional with 3 years of experience\nin Enterprise applications. Experienced with Java, Spring Boot, REST APIs.\nInterested in building reliable, maintainable software systems."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 3 years and has all required skills. Semantic score: 64.8/100; keyword score: 82.7/100.",
+      "experience_years": 3,
+      "education": "B.E. in Computer Science",
+      "semantic_score": 64.77,
+      "keyword_score": 82.71,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Nikhil",
+      "resume_path": "/content/resume-rag-project/resumes/resume_27.txt",
+      "match_score": 71.99,
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Target Role: Java Developer",
+        "Skills: Java, Spring Boot, REST APIs, SQL, Git, Agile",
+        "Professional Summary:\nNikhil is a software professional with 3 years of experience\nin Enterprise applications. Experienced with Java, Spring Boot, REST APIs.\nInterested in building reliable, maintainable software systems."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 3 years and has all required skills. Semantic score: 66.5/100; keyword score: 79.0/100.",
+      "experience_years": 3,
+      "education": "B.E. in Electronics and Communication",
+      "semantic_score": 66.51,
+      "keyword_score": 79.03,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Reyansh",
+      "resume_path": "/content/resume-rag-project/resumes/resume_33.txt",
+      "match_score": 70.86,
+      "matched_skills": [
+        "Java",
+        "Angular",
+        "Spring Boot",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Java, Angular, Spring Boot, SQL, Agile, Linux",
+        "Professional Summary:\nReyansh is a software professional with 5 years of experience\nin Full-stack applications. Experienced with Java, Angular, Spring Boot.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Java, Angular, Spring Boot, SQL, Agile, Linux.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 3 years and has all required skills. Semantic score: 71.5/100; keyword score: 71.9/100.",
+      "experience_years": 5,
+      "education": "B.E. in Electronics and Communication",
+      "semantic_score": 71.5,
+      "keyword_score": 71.9,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Varun",
+      "resume_path": "/content/resume-rag-project/resumes/resume_23.txt",
+      "match_score": 69.52,
+      "matched_skills": [
+        "Java",
+        "Angular",
+        "Spring Boot",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Skills: Java, Angular, Spring Boot, SQL, Agile, Testing",
+        "Professional Summary:\nVarun is a software professional with 5 years of experience\nin Full-stack applications. Experienced with Java, Angular, Spring Boot.\nInterested in building reliable, maintainable software systems.",
+        "Experience Details:\nWorked on projects involving Java, Angular, Spring Boot, SQL, Agile, Testing.\nCollaborated with cross-functional teams, reviewed code, and contributed\nto debugging, testing, documentation, and software delivery."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 3 years and has all required skills. Semantic score: 68.2/100; keyword score: 71.9/100.",
+      "experience_years": 5,
+      "education": "MCA",
+      "semantic_score": 68.15,
+      "keyword_score": 71.9,
+      "eligible": true
+    },
+    {
+      "candidate_name": "Rohan",
+      "resume_path": "/content/resume-rag-project/resumes/resume_07.txt",
+      "match_score": 69.26,
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Target Role: Java Developer",
+        "Skills: Java, Spring Boot, REST APIs, SQL, Agile, Linux, Testing",
+        "Professional Summary:\nRohan is a software professional with 3 years of experience\nin Enterprise applications. Experienced with Java, Spring Boot, REST APIs.\nInterested in building reliable, maintainable software systems."
+      ],
+      "reasoning": "Meets the minimum experience requirement of 3 years and has all required skills. Semantic score: 66.1/100; keyword score: 75.7/100.",
+      "experience_years": 3,
+      "education": "B.Tech in Information Technology",
+      "semantic_score": 66.15,
+      "keyword_score": 75.66,
+      "eligible": true
+    }
+  ],
+  "latency_ms": 1000.65,
+  "scoring_note": "Scores are heuristic ranking estimates, not probabilities of job success or objective hiring suitability."
+}

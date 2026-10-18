@@ -1,0 +1,15 @@
+Name: Reyansh
+Target Role: Full Stack Developer
+Experience: 5 years
+Education: B.E. in Electronics and Communication
+Skills: Java, Angular, Spring Boot, SQL, Agile, Linux
+
+Professional Summary:
+Reyansh is a software professional with 5 years of experience
+in Full-stack applications. Experienced with Java, Angular, Spring Boot.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Java, Angular, Spring Boot, SQL, Agile, Linux.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

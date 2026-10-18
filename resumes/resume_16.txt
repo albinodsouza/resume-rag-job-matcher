@@ -1,0 +1,15 @@
+Name: Pooja
+Target Role: DevOps Engineer
+Experience: 6 years
+Education: M.Tech in Computer Science
+Skills: AWS, Docker, Kubernetes, Linux, MongoDB
+
+Professional Summary:
+Pooja is a software professional with 6 years of experience
+in Cloud infrastructure. Experienced with AWS, Docker, Kubernetes.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving AWS, Docker, Kubernetes, Linux, MongoDB.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

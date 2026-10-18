@@ -1,0 +1,15 @@
+Name: Diya
+Target Role: Frontend Developer
+Experience: 8 years
+Education: B.Tech in Information Technology
+Skills: JavaScript, React, HTML, CSS, REST APIs, Agile, Linux, Testing
+
+Professional Summary:
+Diya is a software professional with 8 years of experience
+in Frontend development. Experienced with JavaScript, React, HTML.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving JavaScript, React, HTML, CSS, REST APIs, Agile, Linux, Testing.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

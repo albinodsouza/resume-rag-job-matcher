@@ -1,0 +1,10 @@
+{
+  "job_id": "JD002",
+  "title": "Java Full Stack Developer",
+  "description": "Develop enterprise applications using Java, Spring Boot, Angular, REST APIs and SQL. Collaborate with frontend and backend teams.",
+  "must_have": [
+    "Java",
+    "Spring Boot"
+  ],
+  "minimum_experience": 3
+}

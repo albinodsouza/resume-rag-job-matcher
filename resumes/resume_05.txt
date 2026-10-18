@@ -1,0 +1,15 @@
+Name: Kabir
+Target Role: Machine Learning Engineer
+Experience: 9 years
+Education: B.E. in Electronics and Communication
+Skills: Python, scikit-learn, TensorFlow, SQL, Linux, Testing
+
+Professional Summary:
+Kabir is a software professional with 9 years of experience
+in Machine learning. Experienced with Python, scikit-learn, TensorFlow.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Python, scikit-learn, TensorFlow, SQL, Linux, Testing.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

@@ -1,0 +1,6 @@
+job_id,job_title,eligible_candidates,ground_truth_relevant,returned_candidates,precision_at_10,recall_at_10,latency_ms
+JD001,Python Backend Engineer,10,10,10,1.0,1.0,1358.87
+JD002,Java Full Stack Developer,7,7,7,1.0,1.0,1001.32
+JD003,Machine Learning Engineer,14,14,10,1.0,0.7143,1025.39
+JD004,Cloud DevOps Engineer,6,6,6,1.0,1.0,1026.89
+JD005,Frontend Developer,4,4,4,1.0,1.0,1045.76

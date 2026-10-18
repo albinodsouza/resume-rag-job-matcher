@@ -1,0 +1,15 @@
+Name: Krish
+Target Role: Machine Learning Engineer
+Experience: 9 years
+Education: M.Tech in Computer Science
+Skills: Python, scikit-learn, TensorFlow, SQL, Testing
+
+Professional Summary:
+Krish is a software professional with 9 years of experience
+in Machine learning. Experienced with Python, scikit-learn, TensorFlow.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Python, scikit-learn, TensorFlow, SQL, Testing.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

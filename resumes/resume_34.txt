@@ -1,0 +1,15 @@
+Name: Sana
+Target Role: Data Engineer
+Experience: 2 years
+Education: B.Tech in Information Technology
+Skills: Python, SQL, Spark, AWS
+
+Professional Summary:
+Sana is a software professional with 2 years of experience
+in Data pipelines. Experienced with Python, SQL, Spark.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Python, SQL, Spark, AWS.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

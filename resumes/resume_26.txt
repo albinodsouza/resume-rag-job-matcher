@@ -1,0 +1,15 @@
+Name: Riya
+Target Role: DevOps Engineer
+Experience: 6 years
+Education: B.E. in Electronics and Communication
+Skills: AWS, Docker, Kubernetes, Linux, REST APIs, Git
+
+Professional Summary:
+Riya is a software professional with 6 years of experience
+in Cloud infrastructure. Experienced with AWS, Docker, Kubernetes.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving AWS, Docker, Kubernetes, Linux, REST APIs, Git.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

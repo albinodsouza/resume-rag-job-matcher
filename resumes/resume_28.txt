@@ -1,0 +1,15 @@
+Name: Maya
+Target Role: Python Developer
+Experience: 10 years
+Education: B.E. in Computer Science
+Skills: Python, Django, FastAPI, PostgreSQL, Git, Agile
+
+Professional Summary:
+Maya is a software professional with 10 years of experience
+in API development. Experienced with Python, Django, FastAPI.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Python, Django, FastAPI, PostgreSQL, Git, Agile.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

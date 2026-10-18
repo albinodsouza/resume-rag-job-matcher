@@ -1,0 +1,15 @@
+Name: Nisha
+Target Role: Data Engineer
+Experience: 2 years
+Education: B.E. in Computer Science
+Skills: Python, SQL, Spark, AWS, Git, MongoDB, Testing
+
+Professional Summary:
+Nisha is a software professional with 2 years of experience
+in Data pipelines. Experienced with Python, SQL, Spark.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Python, SQL, Spark, AWS, Git, MongoDB, Testing.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

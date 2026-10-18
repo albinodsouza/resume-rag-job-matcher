@@ -1,0 +1,10 @@
+{
+  "job_id": "JD004",
+  "title": "Cloud DevOps Engineer",
+  "description": "Manage AWS infrastructure, Docker containers, Kubernetes deployments, Linux systems and automated deployment pipelines.",
+  "must_have": [
+    "AWS",
+    "Docker"
+  ],
+  "minimum_experience": 3
+}

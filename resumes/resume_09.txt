@@ -1,0 +1,15 @@
+Name: Arjun
+Target Role: Cloud Engineer
+Experience: 7 years
+Education: B.Tech in Information Technology
+Skills: AWS, Terraform, Docker, Linux, Agile
+
+Professional Summary:
+Arjun is a software professional with 7 years of experience
+in Cloud platforms. Experienced with AWS, Terraform, Docker.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving AWS, Terraform, Docker, Linux, Agile.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.

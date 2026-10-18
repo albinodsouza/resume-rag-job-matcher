@@ -1,0 +1,10 @@
+{
+  "job_id": "JD005",
+  "title": "Frontend Developer",
+  "description": "Build responsive user interfaces using JavaScript, React, HTML and CSS. Collaborate with API developers and write maintainable code.",
+  "must_have": [
+    "JavaScript",
+    "HTML"
+  ],
+  "minimum_experience": 2
+}

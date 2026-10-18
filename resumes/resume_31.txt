@@ -1,0 +1,15 @@
+Name: Om
+Target Role: Software Engineer
+Experience: 1 years
+Education: M.Tech in Computer Science
+Skills: Python, Java, SQL, Git, Agile, Testing
+
+Professional Summary:
+Om is a software professional with 1 years of experience
+in Backend development. Experienced with Python, Java, SQL.
+Interested in building reliable, maintainable software systems.
+
+Experience Details:
+Worked on projects involving Python, Java, SQL, Git, Agile, Testing.
+Collaborated with cross-functional teams, reviewed code, and contributed
+to debugging, testing, documentation, and software delivery.
