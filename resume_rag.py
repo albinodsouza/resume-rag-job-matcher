@@ -4,6 +4,50 @@ import re
 import json
 import chromadb
 from sentence_transformers import SentenceTransformer
+from pypdf import PdfReader
+from docx import Document
+
+
+def load_resume_text(file_path):
+    """Extract text from TXT, PDF, or DOCX resumes."""
+    file_path = Path(file_path)
+    extension = file_path.suffix.lower()
+
+    if extension == ".txt":
+        return file_path.read_text(encoding="utf-8")
+
+    elif extension == ".pdf":
+        reader = PdfReader(str(file_path))
+        pages = []
+
+        for page in reader.pages:
+            pages.append(page.extract_text() or "")
+
+        return "\n".join(pages)
+
+    elif extension == ".docx":
+        document = Document(str(file_path))
+
+        paragraphs = [
+            paragraph.text
+            for paragraph in document.paragraphs
+            if paragraph.text.strip()
+        ]
+
+        # Include text in tables, which are common in resumes.
+        for table in document.tables:
+            for row in table.rows:
+                paragraphs.append(
+                    " | ".join(cell.text.strip() for cell in row.cells)
+                )
+
+        return "\n".join(paragraphs)
+
+    else:
+        raise ValueError(
+            f"Unsupported resume format: {extension}"
+        )
+
 
 
 PROJECT_DIR = Path(__file__).resolve().parent
@@ -73,7 +117,13 @@ def build_resume_index(reset=True):
     if not RESUME_DIR.exists():
         raise FileNotFoundError(f"Resume directory not found: {RESUME_DIR}")
 
-    resume_paths = sorted(RESUME_DIR.glob("*.txt"))
+    
+    resume_paths = sorted(
+    path for path in RESUME_DIR.iterdir()
+    if path.is_file()
+    and path.suffix.lower() in {".txt", ".pdf", ".docx"}
+    )
+
 
     if not resume_paths:
         raise ValueError("No .txt resumes found in the resumes folder.")
@@ -99,7 +149,7 @@ def build_resume_index(reset=True):
     total_chunks = 0
 
     for resume_path in resume_paths:
-        text = resume_path.read_text(encoding="utf-8")
+        text = load_resume_text(resume_path)
         candidate = extract_metadata(text, resume_path)
         chunks = split_into_chunks(text)
 

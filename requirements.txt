@@ -1,0 +1,8 @@
+sentence-transformers
+chromadb
+rank-bm25
+pypdf
+python-docx
+pandas
+scikit-learn
+reportlab

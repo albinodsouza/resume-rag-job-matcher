@@ -13,7 +13,7 @@
   "top_matches": [
     {
       "candidate_name": "Priya",
-      "resume_path": "/content/resume-rag-project/resumes/resume_08.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_08.txt",
       "match_score": 77.89,
       "matched_skills": [
         "Python",
@@ -35,7 +35,7 @@
     },
     {
       "candidate_name": "Aisha",
-      "resume_path": "/content/resume-rag-project/resumes/resume_18.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_18.txt",
       "match_score": 77.89,
       "matched_skills": [
         "Python",
@@ -57,7 +57,7 @@
     },
     {
       "candidate_name": "Maya",
-      "resume_path": "/content/resume-rag-project/resumes/resume_28.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_28.txt",
       "match_score": 73.58,
       "matched_skills": [
         "Python",
@@ -79,7 +79,7 @@
     },
     {
       "candidate_name": "Sneha",
-      "resume_path": "/content/resume-rag-project/resumes/resume_10.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_10.txt",
       "match_score": 72.54,
       "matched_skills": [
         "Python",
@@ -100,7 +100,7 @@
     },
     {
       "candidate_name": "Sara",
-      "resume_path": "/content/resume-rag-project/resumes/resume_30.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_30.txt",
       "match_score": 68.73,
       "matched_skills": [
         "Python",
@@ -121,7 +121,7 @@
     },
     {
       "candidate_name": "Vikram",
-      "resume_path": "/content/resume-rag-project/resumes/resume_15.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_15.txt",
       "match_score": 65.52,
       "matched_skills": [
         "Python",
@@ -142,7 +142,7 @@
     },
     {
       "candidate_name": "Neha",
-      "resume_path": "/content/resume-rag-project/resumes/resume_20.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_20.txt",
       "match_score": 58.35,
       "matched_skills": [
         "Python",
@@ -162,7 +162,7 @@
     },
     {
       "candidate_name": "Krish",
-      "resume_path": "/content/resume-rag-project/resumes/resume_35.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_35.txt",
       "match_score": 52.52,
       "matched_skills": [
         "Python",
@@ -182,7 +182,7 @@
     },
     {
       "candidate_name": "Sahil",
-      "resume_path": "/content/resume-rag-project/resumes/resume_25.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_25.txt",
       "match_score": 51.17,
       "matched_skills": [
         "Python",
@@ -202,7 +202,7 @@
     },
     {
       "candidate_name": "Kabir",
-      "resume_path": "/content/resume-rag-project/resumes/resume_05.txt",
+      "resume_path": "C:\\Users\\albin\\Desktop\\Courses\\java\\resume-rag-project\\resumes\\resume_05.txt",
       "match_score": 50.91,
       "matched_skills": [
         "Python",
@@ -221,6 +221,6 @@
       "eligible": true
     }
   ],
-  "latency_ms": 2082.64,
+  "latency_ms": 4666.94,
   "scoring_note": "Scores are heuristic ranking estimates, not probabilities of job success or objective hiring suitability."
 }
